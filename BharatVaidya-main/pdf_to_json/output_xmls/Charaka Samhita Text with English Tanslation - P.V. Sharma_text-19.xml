@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Sanskrit Name Cavyadi Icha Cangeri chrta Citraka ehrta Citrakadi guyika Citrakadi ciirna Citrakadi taila Cyavanaprasa Jatyadi kasiya Jivaniya ghirta Jivantyadi vhrta Takrirista Talisadi gutika Talisadi ciirna Tikta Satpala vhrta Lilvakadi kasaya Tejovatyadi ghrta CARAKA-SAMHITA Reference</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Trikantakadi taila Triphaladi kasaya Triphaladi ehrta Triphaladi cara Triphaladi taila Triphaladyarista Triphaladya lauha Trutyadi ctrna Trytisanadi cirna Tryusanadi chrta Tvagadi ctrna Tvagadi vati Tvagadi leha Dantighrta Danti haritaki Dantyarista Ci</orgName>
+								<orgName type="institution">Ci</orgName>
+								<address>
+									<addrLine>Ci, 17.141-144 8.145 8.145 7.140-143 7.26 ?Tejohvadi dantamanjana Ci. 26.190 Trayamanadya ¢hrta Trikantakadi ghrta</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="institution">Ci</orgName>
+								<address>
+									<addrLine>5.118 6.38 6.38 3.208 7.136 i</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="department">Dantydsava Dasamila chrta Dasamillyadya ghrta Dasamilla taila Dadimadi ghrta Darvyadi kasaya Darvyadi ghrta Darvyadi leha Duhspargadi leha Duralabhadi shrta Duralabhidya ksara Duralabhasava Devadarvadi ciirna Devadarvadi taila Draksadi ghrta Reference</orgName>
+								<address>
+									<postCode>154-160</postCode>
+									<settlement>Sanskrit Name</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<orgName type="laboratory">Dhitryarista Navayasa Nagaradi ghrta Nagaradya cima Narayana curma Nimba ghrta Nimbadi kagaya Nilinyadi yhrta Nilinyadi cirna Nyagrodha ghrta Nyagrodhadi kasaya Paiicakola ghrta Paficakoladi vati Pajicagavya ghryta Paficamiladya ghrta Paiicasirisa agada</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff5">
+								<orgName type="department">Saindhavadi ciirna Saindhavadi taila Saindhavidi varti Sauvarcaladi yoya Sthiradi ghrta Sthinadi taila Suuhiksira ghrta Svarnaksiryadi</orgName>
+								<address>
+									<addrLine>youa Hapusadya gbrta Hapusidya carna Haridra vhrta Haridradi yoga Haritaki Icha Haritakyddi kasaya Haritakyadi ghrta Haritakyadi yoga Hingvadi ghrta</addrLine>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">428D30902D2CC5D71623FC711E02FB7C</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-03T07:57+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0" /><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_0"><head></head><label></label><figDesc>Fight defects of semen 517</figDesc></figure>
+		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0" />			</div>
+			<div type="references">
+
+				<listBibl/>
+			</div>
+		</back>
+	</text>
+</TEI>

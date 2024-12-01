@@ -1,0 +1,1714 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="id">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main"></title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Su</forename><surname>Su</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Su</forename><surname>Ci</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Sanskrit Name Udara-fira Udaravesta Udavarta Udgarabahulya Udgaravinigraha Urdhvavata Kuksiroga Kunthana Krcchravarcastva Krimi Krimikostha Krimiroga Ksunnasa Gadhapurigata Gudagudayana Gudagraha Guda-tapa Gudapaka Gudabhramsa Syn. GudanihSarana Gudarti Gulma Grathita purisa Grahanidosa Chardi Chardita-bibhatsata Chidrodara Jathara-dtanana Jathara-ganda Dambari Tiktamla udyara Reference In</orgName>
+								<address>
+									<addrLine>36 Su. 20.11 Su Ci</addrLine>
+									<region>Vi</region>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="laboratory">CARAKA-SAMHITA Sanskrit Name Maladhikya Malabheda Malotsarga Mala-praddsana Mala-Sosa Mala-sanga Muktanala Madhavata Rakta vitta Raktatisara Lalaprascka Syn. Prascka Lohagandhi</orgName>
+								<address>
+									<addrLine>Ci. In. Ci. Syn. Tiktamlodgirana Su . 13.57, In. 6.11 . 13.76, 19.3 16.7 2.6 19, 3(1) 13, 19 26.7, udgara Vanksananaha Vamathu Varcahksaya Syn, Vitsanksaya akrt-ksaya Varcahgosa Varcogada Valipaka Vidbheda Vinmiitragandhi chardi Vidaha Syn, Vyamlata Vibaddhodgara Vibandha Vireka-Vaisamya</addrLine>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff2">
+								<orgName type="laboratory">Viloma vata Visticika Sitavaritarsa itavata-tarsa Sitagnita Suktatva Reference</orgName>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff3">
+								<orgName type="institution">CARAKA-AMHITA</orgName>
+								<address>
+									<country>Alpasveda Asvedana Atapa-sahatvasahatva Utsedha Udarda Rsyajihva Audumbara kustha Kaksya Kacchapika Kandu Kapala kustha Karnainiilagotha Karnika Kakana kustha Kamala Sakhagraya Kamala Kogthasraya kamala Syn, Kumbhakamala: Kitibha Kildsa Kila Kustha KeSa-ativrddhi KeSadosa KeSapatana KeSa-Prapatana</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff4">
+								<address>
+									<country>Sanskrit Name Kaserukadi ghrta Kalaka carna Kasaghrta Kasisadi varti Kasmaryadi ghrta Kiratadya stra | Kutajadi ghrta | Kutajadi rasakriya Kulatthadi ghrta | Kustha taila Ksira gutika Ksara ghrta Ksara taila Ksirasa{pala ghrta Khadira ghrta | Khadiradi gutika | Khadirarista | Kharjara ghrta Kharjiradi leha</country>
+								</address>
+							</affiliation>
+						</author>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">176E17BD1A3664C36E865CC866D400CE</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-03T06:49+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<abstract/>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="id">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Su. 25.12 Su. 17.59 Ci. 27.17 Si. 12.17 (15 ) : Ci. 28.27 <ref type="bibr">Su,</ref><ref type="bibr">23.38 Ci. 28.27 Su. 16.8 Ci,</ref><ref type="bibr">28.22</ref> Si. 12.17 (15) <ref type="bibr">Su. 20.11 Su. 20.11,</ref><ref type="bibr">Ni. 1.21 Ci,</ref><ref type="bibr">28.38 Su. 20.11</ref> Si.</p><p>Ci.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Su.</head><p>Ci.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Su.</head><p>Vi.</p><p>12.17 ( <ref type="formula">15</ref>  Si. 12.17( <ref type="formula">14</ref>) <ref type="bibr">Su. 7.6,</ref><ref type="bibr">Ci,</ref><ref type="bibr">6.17 Ci. 14.233 Ci. 3.135 Ni. 4.37 Su. 17.80,</ref><ref type="bibr">Ni. 4.37 Vi. 4.25 Su. 2.22,</ref><ref type="bibr">17.71,</ref><ref type="bibr">Si. 9.25 Su,</ref><ref type="bibr">17.71 Si. 9.26 Su. 27.229,</ref><ref type="bibr">Ci. 6.17 Si,</ref><ref type="bibr">9.25 Su. 17,</ref><ref type="bibr">71 Si. 9.25 Su. 14.21,</ref><ref type="bibr">19.2 Si. 9.25 Ci,</ref><ref type="bibr">28.92 Si. 9.25 Si. 9.25 Ni,</ref><ref type="bibr">4.37 Si. 9.26 Si. 9.25 In,</ref><ref type="bibr">10,</ref><ref type="bibr">4,</ref><ref type="bibr">Ci. 13</ref> In. 6.16 <ref type="bibr">Ni,</ref><ref type="bibr">4.37 Ci,</ref><ref type="bibr">3.98,</ref><ref type="bibr">28.229 Ni,</ref><ref type="bibr">4.25 Su. 28.18,</ref><ref type="bibr">Ci. 15.69 Ni. 3.15 Su. 16.15,</ref><ref type="bibr">Ci. 30,</ref><ref type="bibr">153 Su. 12.12 Ci. 14.35 Su,</ref><ref type="bibr">27. 86 Su. 19.3(5)</ref> Ci. 30.154 <ref type="bibr">Ci,</ref><ref type="bibr">30.159 Ci. 30.175 Ci,</ref><ref type="bibr">30.175 Su. 14</ref>  <ref type="bibr">Su. 20.14 28.12,</ref><ref type="bibr">Si. 12.17(14)</ref> Inflammation of penis Sloughing of penis <ref type="bibr">Ci,</ref><ref type="bibr">30.175 Sanskrit Name Reference Medhratapa Ci,</ref><ref type="bibr">Ci. 6.17 Retomargaruja Su. 2.32 Lifgagaithilya Ci. 2.1.46,</ref><ref type="bibr">30.155 Valayikarana Ci. 30.170</ref> due to Kathina parigraha Vrsanagala <ref type="bibr">Su. 7.10 Vrsanaksepa Su. 20.11 Sukraksaya Su. 19,</ref><ref type="bibr">3(5)</ref> Syn. Sukrapariksaya  Aticarana <ref type="bibr">Ci,</ref><ref type="bibr">30.19</ref> Antarmukhi <ref type="bibr">Ci. 30.31 Arajaska Ci. 30.17 Asrydara Ci. 30.208 Syn. Pradara Su. 18.6,</ref><ref type="bibr">Ci. 30,</ref><ref type="bibr">209 ?Asrja Ci. 30.16 Ayama Sh. 8.45</ref> Uttundika <ref type="bibr">Sh. 8.45</ref> Udavartini <ref type="bibr">Ci. 50.26</ref> Upapluta <ref type="bibr">Ci. 30</ref> Anyavayava-patana <ref type="bibr">Ni. 5.11 Atisveda Su. 20.14 Syn. Atisvedana Ni. 5.7 Adhimamsa Su. 11.49,</ref><ref type="bibr">18.33,</ref><ref type="bibr">28.14,</ref><ref type="bibr">Ci,</ref><ref type="bibr">14.5</ref> Adhyasthi <ref type="bibr">Su. 28.16 Apaci Su. 3.7,</ref><ref type="bibr">11.49 Arus Su,</ref><ref type="bibr">24.16</ref> Syn. Aruska <ref type="bibr">Su,</ref><ref type="bibr">13.35</ref> Modern equivalent Su. 17.56 <ref type="bibr">Su. 13.46 Su. 18.25,</ref><ref type="bibr">20.12,</ref><ref type="bibr">28.12 Ci. 17</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Numbness in vagina</head></div>		</body>
+		<back>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="bibr">Su. 23.28 Ci. 9.6 Ci. 16.12 Ci,</ref><ref type="bibr">17.8 Su. 15.13 Su,</ref><ref type="bibr">22.37 Su. 6.13</ref> <p>Su. 17.101 <ref type="bibr">Su. 21.11 Ci,</ref><ref type="bibr">14.11 Su. 7.22,</ref><ref type="bibr">17.52,</ref><ref type="bibr">19.3 Su. 22.46 Su. 20.11</ref> Vi. b. 14 <ref type="bibr">Ci. 13.17</ref> Su. 17.101 <ref type="bibr">Ci,</ref><ref type="bibr">1.1.54 Vi. 6.4 Ci. 1.1.71</ref> Css .</p><p>? <ref type="bibr">Su,</ref><ref type="bibr">19.3(4)</ref>  <ref type="bibr">In. 7.26</ref> In. 11.18 <ref type="bibr">Ci. 12.75 Su. 20,</ref><ref type="bibr">11 Su. 5.30</ref> Su. 17.52 <ref type="bibr">Su. 27.149 Su. 16.7</ref> Modern equivalent</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Twitching in blood vessels</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Inflammation in channels</head><p>Stiffness in heart <ref type="bibr">Su. 20.11 Su. 20.11 Ci,</ref><ref type="bibr">28.21 Su. 20.11 Su. 19.3 Ci. 9.6 Su. 16.15 Su. 20.11,</ref><ref type="bibr">Vi. 8.6 Ci. 10.7,</ref><ref type="bibr">24.104 Ci. 9.20 Ci. 21.38</ref> Su. 17.60 <ref type="bibr">Ci. 3.37 Ci. 8.50 Su. 28.20 Su. 28.20 Su. 22.40 Su. 19.3 Vi. 8.128 Su. 24.14</ref> Si. 9.6 . <ref type="bibr">Ci. 30.249 Su. 13.59,</ref><ref type="bibr">26.79,</ref><ref type="bibr">84,</ref><ref type="bibr">Si. 2.9 Su. 20.14,</ref><ref type="bibr">Ni. 8.5,</ref><ref type="bibr">Ci. 10.3 Su. 20,</ref><ref type="bibr">11,</ref><ref type="bibr">28.9 Su. 28.17,</ref><ref type="bibr">Ni. 8.6 Ci. 9.6 Su. 24.15</ref> Modern equivalent Excessive sleep <ref type="bibr">Ci. 1.1.34 Su,</ref><ref type="bibr">17.52 Ci. 3.86 Gi. 9.20 Su. 17.23 Su. 17.26 Su. 5.45 Ci,</ref><ref type="bibr">3.36 Su,</ref><ref type="bibr">22.37 Su. 7.52,</ref><ref type="bibr">Ci. 12.48 Su,</ref><ref type="bibr">15.7 Su. 11.45 Su. 19.3 Su. 17.33 Su. 17.88 Su. 20.11,</ref><ref type="bibr">Ni. 1.21 Ci,</ref><ref type="bibr">29.26 Contracture ( ankylosis )</ref> in joints Su. 17,66 Bursting of joints In, 3.4 Displacement of joints <ref type="bibr">Su. 14.21,</ref><ref type="bibr">20,</ref><ref type="bibr">11,</ref><ref type="bibr">Ci,</ref><ref type="bibr">28.55 Generalised ( vatika)</ref>  Su. 17.101 Foetid urine <ref type="bibr">Su. 17.105 Hyperlipidism Ci. 23.178 Ni. 5.8 Su. 14.18,</ref><ref type="bibr">Ci. 16.36 Ci. 16.36 Ci,</ref><ref type="bibr">16.36 Ci. 16.47 Su. 3.7 Su,</ref><ref type="bibr">1.96,</ref><ref type="bibr">26.103 Su. 28.14 Su,</ref><ref type="bibr">18.6 Ci. 6.13 Su. 28.16 Su. 5.30 Su. 17</ref>  <ref type="bibr">Su. 20.11 Su. 16.13 Vi. 5.8 Su. 5.30 Gi,</ref><ref type="bibr">26.125 Su. 3.7 Su. 28.14,</ref><ref type="bibr">Ci.</ref> 12.79 <ref type="bibr">Ci. 12</ref>  <ref type="bibr">Su,</ref><ref type="bibr">18.21,</ref><ref type="bibr">20.17. Ci. 12.79 Goitre Su. 28.21,</ref><ref type="bibr">Ni. 3.7,</ref><ref type="bibr">Ci.</ref> 12.81 Cyst <ref type="bibr">Ci. 23.177 Gi. 21.32 Su. 11.49 Su. 28.13 Su. 20.14 Gi. 14.11 Gi,</ref><ref type="bibr">12.99 Su. 17.83 Su. 18.25 Su. 21.12 Ci,</ref><ref type="bibr">21.70 Sh,</ref><ref type="bibr">8.32 Su. 20.14 Su. 20.14 Sh. 8.32 Su. 1.118 Gi. 8.82,</ref><ref type="bibr">14.59 Ci,</ref><ref type="bibr">6.13 Su. 28.16</ref> In. <ref type="bibr" target="#b65">1,</ref><ref type="bibr">22 Su. 17.67 Su,</ref><ref type="bibr">20.11 Su. 17</ref>  <ref type="bibr">Ci. 25.56 Su. 17.87,</ref><ref type="bibr">28.33 Su. 17.54 Su. 18.6 Ci. 13.17 Ni. 314 Su. 3.7 Su. 9.81,</ref><ref type="bibr">Vi. 1.17 Ci,</ref><ref type="bibr">26.125 Su. 17.82 Su. 28.12 Ci,</ref><ref type="bibr">28.65 Vi. 5.7</ref>(5) <ref type="bibr">Su. 28.14 Ni. 4.8 Ci. 25.25 Su. 19.3 Ci,</ref><ref type="bibr">12.76 Su. 14.17,</ref><ref type="bibr">In. 11.15,</ref><ref type="bibr">Ci,</ref><ref type="bibr">12.94 Su. 18.6,</ref><ref type="bibr">Ci. 12.96 Ni. 5.7</ref>(3) <ref type="bibr">Su. 11.49 Ci. 12.93,</ref><ref type="bibr">In. 11.14 Su. 20.14 Su. 17</ref> Su. 17.83 <ref type="bibr">Su. 20.11 Su. 7.14,</ref><ref type="bibr">19.3 Su. 26.102 Su. 18.30 Su. 18.12 Su. 1.104 Vi. 5.7 Ci,</ref><ref type="bibr">25,</ref><ref type="bibr">29 Ni. 5.7 Su,</ref><ref type="bibr">17.83 Su. 17.84 Vi. 1.27 Su. 24.11 In,</ref><ref type="bibr">3.4 Ci,</ref><ref type="bibr">12.78 Su. 26.84 Su. 18.3 Su. 18.6 Su. 1.110 Su. 17.67 Ci. 12.98 Su. 17.83 Ni. 5.7(6) Ci. 27,</ref><ref type="bibr">17 Ci,</ref><ref type="bibr">7.11 Ci. 7.11,</ref><ref type="bibr">29.16 Su. 28.16</ref> Modern equivalent Sanskrit Name Reference Sphota <ref type="bibr">Su. 13.35</ref> Syn. Sphotaka <ref type="bibr">Ci. 21.30 Srava Su. 20.15 Sveda Su. 17.33,</ref><ref type="bibr">102,</ref><ref type="bibr">272 Haridratva Su. 20.14</ref> Ordhyajatrattha gada <ref type="bibr">Ci,</ref><ref type="bibr">26.126</ref> Syn, Urdhvajatruja roga <ref type="bibr">Su,</ref><ref type="bibr">5.32 Asyaroga Ci. 26.189 Syn. Mukharoga Su. 73.13 Mukhapaka Su. 24.11 Syn. Asyapaka Su. 28.12 Asyavipaka Su,</ref><ref type="bibr">20,</ref><ref type="bibr">42(1)</ref> Mukhapitigandha <ref type="bibr">Su. 5.29 Syn. Durgandhitasya Ci. 26.103</ref> Pati-asyagandhita <ref type="bibr">Su. 24.11</ref> Piti-mukhata  Syn. Osthasphutana = <ref type="bibr">Su,</ref><ref type="bibr">5.72 Talukarkasata Ci,</ref><ref type="bibr">22.9</ref> Ta'upaka <ref type="bibr">Ni,</ref><ref type="bibr">1.24</ref> Taluvidradhi Ci. 12.77 Kantakopacita jihva In. 8.14 Jihva-karkasata Ci, 22.9 Vi. 5.8 <ref type="bibr">Tn. 11.15 Ci,</ref><ref type="bibr">8.104 Su,</ref><ref type="bibr">20.11,</ref><ref type="bibr">28.9 Ci. 26,</ref><ref type="bibr">107 Ci. 26,</ref><ref type="bibr">192 Ci,</ref><ref type="bibr">22.9 Ci,</ref><ref type="bibr">23.38 Vi. 1.24 Su,</ref><ref type="bibr">26,</ref><ref type="bibr">42(1)</ref> Ci. 12.77 <ref type="bibr">Su. 18.99,</ref><ref type="bibr">Ci. 12.77 Ci,</ref><ref type="bibr">12.75 Su. 17.14,</ref><ref type="bibr">18,</ref><ref type="bibr">22,</ref><ref type="bibr">26,</ref><ref type="bibr">102 Su. 20.14,</ref><ref type="bibr">In. 11.15 Ci,</ref><ref type="bibr">22.58,</ref><ref type="bibr">26,</ref><ref type="bibr">189 Su. 18.20 Su. 5.30 Su. 26.42(1)</ref> Ci. 18.5 <ref type="bibr">Su. 17.59,</ref><ref type="bibr">20.11 Su. 16.11</ref> In. <ref type="bibr" target="#b65">1,</ref><ref type="bibr">15 In,</ref><ref type="bibr">1.15 Tn. 1.15</ref> In. <ref type="bibr">1.16</ref> In. <ref type="bibr">1.15 In. 1.15</ref> In. <ref type="bibr">1.15</ref> In. <ref type="bibr">1.15 Su. 26.84 Su. 5.38,</ref><ref type="bibr">20.11 Su. 26.84</ref> Modern equivalent Ci. 8.54 <ref type="bibr">Su. 14.14 Su. 26.42(1)</ref> Su. 14,20 <ref type="bibr">Ci. 26,</ref><ref type="bibr">189 Su. 28.16 Su. 24.12,</ref><ref type="bibr">Ci. 12.78 In. 3.6 Ci. 26.205 Su. 5.79 Ci. 26.205</ref> In, 1.22 <ref type="bibr">Su. 5,</ref><ref type="bibr">28 In,</ref><ref type="bibr">1.22</ref> In. <ref type="bibr">1.22 Su,</ref><ref type="bibr">20.11,</ref><ref type="bibr">28.16 Ci,</ref><ref type="bibr">26.205 Ci. 12.78 Su. 5.29 Su. 20.11,</ref><ref type="bibr">Ci. 23.33 Ci. 26.205 Su. 5.80,</ref><ref type="bibr">26.75,</ref><ref type="bibr">Ni. 121 Su. 17.67 Su,</ref><ref type="bibr">7.23 Su. 17.66 Ci. 23,</ref><ref type="bibr">68 Su. 20.14 Su. 20.11 Su. 24.11 Su,</ref><ref type="bibr">17.13,</ref><ref type="bibr">19.3 Su. 26.42</ref> Puspaka <ref type="bibr">Ci,</ref><ref type="bibr">17,</ref><ref type="bibr">128 Bhriivyudasa Vi. 8.6 Ratryandhya Ci,</ref><ref type="bibr">23.83 Vartmasamkoca Su. 20.11 Vartmastambha Su,</ref>  Su. 20.17 <ref type="bibr">Ni. 4.47 Su. 20.11,</ref><ref type="bibr">Ni,</ref><ref type="bibr">121 Ni. 4</ref>   <ref type="bibr">Su. 5.44,</ref><ref type="bibr">Ni. 1.21,</ref><ref type="bibr">Ci. 22.34</ref>    <ref type="bibr">Su. 28.16 Su,</ref><ref type="bibr">12.11</ref> In. 1.9</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Dryness of tongue</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Glossitis</head><p>In. 1.9.</p><p>In. 1.9</p><p>In. 1.9</p><p>In. 1.9 <ref type="bibr">Su. 1.104,</ref><ref type="bibr">Ci. 23.5 Ci,</ref><ref type="bibr">10.47 Ci. 15.54 Su. 28.33 Su. 17.96 In. 7.25 Ci. 23.222 Vi. 1.33 Su. 24.15 Ni. 1.33 Ci. 22.14 In. 3.4 Su. 17.31 Su. 1.92,</ref><ref type="bibr">17.18 Su. 22.40 Ci. 13.21 Su. . 0.17 Su. 20.17 Su,</ref><ref type="bibr">20.17 Su. 21.20 Ci. 9.13 Su. 17</ref> Su. 5.90 <ref type="bibr">Su. 22.40 Su. 17.47,</ref><ref type="bibr">In. 3.4 Su. 17.8 Vi. 3.9 Su. 17.58 Su. 17,</ref><ref type="bibr">102 Ci,</ref><ref type="bibr">13.48 Ci. 13,</ref><ref type="bibr">14 Ci. 8.26 Ci. 3</ref> Ci. 9.93 <ref type="bibr">Su. 28.26 Ci. 14.33 Si. 11.19 Su. 28.34 Su. 15.12 Gi. 24.147 Ci. 14.129 Ni. 1.36 Su. 1.90 Su. 25.40 Su. 11.55 Ci,</ref><ref type="bibr">15.205 Ci. 15,</ref><ref type="bibr">209 Vi. 7.14 Su. 23.26 Su. 11.28 Su. 10.4</ref> Vi. 6.17   Ci. 12.69 <ref type="bibr">Su. 9.5 Su. 16.3 Ci. 1.1.3 Ci. 28</ref>   <ref type="bibr">Su. 8.31 Su. 15.11 Su. 15.13 Su. 13.34 Su. 21.55 Su,</ref><ref type="bibr">11.54 Ci,</ref><ref type="bibr">23.61 Vi. 6.18 Sh. 8.61 Su. 5.31 Su. 24.46 Su. 1.87 Su. 14.32 Vi. 7.28 Vi. 2.13 Vi. 6.18 Su. 13.40 Su. 18.5 Su. 15.15 Ci. 23.35 Su. 2.15 Ci. 25.70 Ci,</ref><ref type="bibr">25.41 Su. 15.20 Ci. 21.135 Vi. 6.18 Ci. 23.35 Su. 12.40 Si. 1.4 Su. 22.18 Ci. 12</ref>  <ref type="bibr">Ci. 19.46 Sh. 8.24,</ref><ref type="bibr">Sh. 8.32 Ci,</ref><ref type="bibr">14,</ref><ref type="bibr">224 Su. 14,</ref><ref type="bibr">25 Ci. 12.90 Su. 22.18 Ci. 13.187 Su. 13.34 Ci. 14.65 Su. 15.16 Su. 15.17 Vi. 7.14 Su. 10.6 Ci. 7.40 Ci,</ref><ref type="bibr">14.218 Su. 18.5 Vi. 8.129 Si. 1.4 Su. 15.3 Si. 9.89 Ni. 2 Ci. 23.36 Ci. 23.36 Su. 20.16 Su. 24.46 Ci. 21.131 Sh. 8.43 Su. 15.5 Su,</ref><ref type="bibr">18.5</ref> Modern equivalent    Vi. 6.17 <ref type="bibr">Ci. 12.82 Ci. 6.50 Su. 16.17 Su,</ref><ref type="bibr">7.24 Su. 25.40 Ni. 7.8 Ni. 7.8 Ci,</ref><ref type="bibr">12.90 Su. 25.40 Su. 15.4 Su. 22.18 Ci,</ref><ref type="bibr">25.62 Ci,</ref><ref type="bibr">25,</ref><ref type="bibr">95 Su. 1.109 Ci. 21.133 Su,</ref><ref type="bibr">28.4 Su. 28,</ref><ref type="bibr">26 Ci. 12.82 Su. 11.55 Si. 9.78 Su. 21</ref>  <ref type="bibr">Su. 22.32 Su. 24.18 Ci,</ref><ref type="bibr">27.25 Ci. 15.198 Su. 10.3 Ci. 30.106</ref> Su. 25 21 <ref type="bibr">Vi. 6.16 Su. 22.18,</ref><ref type="bibr">28.26 Su. 16.20 Su. 14.41 ?Su. 24:50 Ci. 23.36 Ci. 9.26 Su. 11.54 Su. 7.5 Su. 15.4 Su. 5.39 Su. 13.34 Su. 1.109 Su. 16.26 Ci,</ref><ref type="bibr">9.31 Ci,</ref><ref type="bibr">7.51 Su. 1.17 Su. 2.16 Ci. 13.111 Ci. 21.95 Ci. 23.63 Ni. 7.6 Ci. 13.77 Su. 24 46 Ci. 29.36 Su. 22</ref> </p></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">15</biblScope>
+			<pubPlace>Si</pubPlace>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>16.13</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>17.85</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="17" to="31" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>Si. 9.76</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">7.19</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>Ci. 28.50</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">34</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>Ni. 1.21</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Si</surname></persName>
+		</author>
+		<idno>12.17(15) Ci. 28.27</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>14.21</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>Ci. 28.55</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>17.10 Vi. 12.7</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1956">5.95, 19.31, Ci, 28.56</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Tn</surname></persName>
+		</author>
+		<idno>11.15</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">16</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2007-01-11">17.101, 20.11, Vi. 1.7</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Vi</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>17.46</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>13.14</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1920-06-14">5.29, 17.14, In. 6.20</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<date>5.59, 20.21, Ci. 28</date>
+			<biblScope unit="page">43</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>17.84</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>14.23</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m">?_?_?_?_?_ Modern equivalent Foot-drop</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">73</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1935-03-01">1.3.35</date>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">11</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title level="m" type="main">11 Dwarfism Su, 14.21 Excessive yawning, convulsions Ci. 28,49 Lockjaw with open mouth Su</title>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+	<note>3.23, 19.3 Vatika disorder of the affluent Su</note>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">221</biblScope>
+		</imprint>
+	</monogr>
+	<note>17.58, Ci. 27.19 Trembling Su. 17.31 Twisting Su. 20.12 Pain Su, 20,12 Division Su. 18.26, In, 9.20, Si. 9.72 Disease of temples Vi. 1.21 Pricking pain in temples Su, 20.11 Tearing pain in temples Su</note>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title level="m" type="main">27,233 Headache Su</title>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">54</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title level="m" type="main">Loss of movement in head Su. 20,11 -Tearing pain in pelvis Ci, 58.49 Lockjaw with closed mouth Su, 17.101 Malaise in legs $34 CARAKA-SAMHITA Sanskrit Name . Reference Modern equivalent -Karnini Ci. 30</title>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="28" to="50" />
+		</imprint>
+	</monogr>
+	<note>28 Vaginal polypus</note>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title level="m" type="main">3 Defects of breast-milk Garbha-Ksipramoksa Ci. 28.34 Premature labour Garbhanasa Ci, 28.22 Destruction of foetus Garbhaparisruti Sh. 2.15 Abortion Syn</title>
+		<author>
+			<persName><forename type="first">Ksiradusa</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Garbhaparisrava Su</publisher>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="page">19</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title level="m" type="main">34 Abnormality of foetus Garbhagosa 2.15 Dricd up foetus</title>
+		<author>
+			<persName><forename type="first">Garbhavikrti</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title level="m" type="main">28.19 Non-formation of foetus Paripluta 30.24 Pain during coitus Pigdalika bh. 8.45 Circular hardness -Putraghni i. 30.29 Recurrent foetal death Paingalyabadha . 8.32 Tawniness Prakcarana . 30.20 Vaginal defects caused by coitus in immature age Bijadosa 6.57, 30.8 Genetic defect Bijopaghata</title>
+		<author>
+			<persName><forename type="first">Garbhajanana</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+		</imprint>
+	</monogr>
+	<note>Ci. 30.154 Damage to seeds ( sperm Syn. Bijopatapti 14.5 and ovum</note>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title level="m" type="main">29 Foetus stolen by evil spirits Matapitr-bijadoga i, 30.189 Defect of male and female sceds</title>
+		<author>
+			<persName><surname>Bhutahrta Garbha</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<analytic>
+		<title level="a" type="main">Vaginal discharge Yoni-karkasata 30.10 ?Vaginal hardness Yoni-catalatva . 3.14 Dilatation of vagina Yoni-toda . 30.9 Pricking pain in vagina Yoni-daurgandhya i, 3.14 Foul smell in vagina Yonimukha-sosa . 30.33 Dryness of vaginal orifice Yoni-vedana i, 30</title>
+		<author>
+			<persName><forename type="first">Matrdoga</forename><surname>Ci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">32 Maternal detect Yoni-asrava i</title>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="issue">9</biblScope>
+			<biblScope unit="page" from="3" to="14" />
+		</imprint>
+	</monogr>
+	<note>vyapad su. 19.3 Disorder of female genital . track Yonisula . 27.235 ?Vaginal pain ?? a ?s APPENDIX XV Sanskrit Name Reference Yoni-supti Ci</note>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Yoni-Stambha</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Yonyayasa</forename><surname>Ci</surname></persName>
+		</author>
+		<idno>30.10</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Rajah-Ativartana</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">230</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Rajonaga</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Rajavisarga</forename><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Vamini</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">34</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Varta</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<analytic>
+		<title/>
+	</analytic>
+	<monogr>
+		<title level="j">Viguna praja Sh</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="issue">6</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Vijpmbhika</forename><surname>Sh</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">45</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Vinamika</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">45</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">(</forename><surname>Virdpa</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">)</forename><surname>Praja</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Vyayama</forename><surname>Sh</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">45</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sonitagulma</forename><surname>Vi</surname></persName>
+		</author>
+		<idno>3.15</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sandhi</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">35</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Santanadosa</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">103</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Stcimukhi</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">32</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Stanaruja</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">144</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Stanyaksaya</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">179</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title level="m" type="main">(ksira)dosa Ci</title>
+		<author>
+			<persName><surname>Stanya</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">230</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Angapatana</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">35</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Angavadarana</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+			<biblScope unit="page">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Reference</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">102</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title level="m" type="main">11.49, 17.83, Ci</title>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page">88</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ni</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ni</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">33</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>Ni. 7.6</idno>
+		<imprint>
+			<biblScope unit="volume">56</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ni</surname></persName>
+		</author>
+		<idno>Ni. 5.7</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>Ci. 12.91</idno>
+		<imprint>
+			<biblScope unit="volume">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>17.83</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>16.13</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<monogr>
+		<title level="m" type="main">of blood Syn. Rakta-sanksaya Su. 17.65 Loss of blood Sonitasamkgaya Ci</title>
+		<author>
+			<persName><surname>Moistening</surname></persName>
+		</author>
+		<idno>14.209</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<analytic>
+		<title level="a" type="main">105 Defect of blood Syn</title>
+		<author>
+			<persName><forename type="first">Raktadosa</forename><surname>Ci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asrkpradosa Ci</title>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="issue">18</biblScope>
+		</imprint>
+	</monogr>
+	<note>18 iI</note>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<analytic>
+		<title level="a" type="main">14.16, Ni. 2 Internal hacmorthaze Syn</title>
+		<author>
+			<persName><forename type="first">Raktapitta</forename><surname>Su</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Lohitapitta Su</title>
+		<imprint>
+			<biblScope unit="volume">19</biblScope>
+			<biblScope unit="issue">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sonitapitta</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">106</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<monogr>
+		<title level="m" type="main">Delects cf body-haits Loma-prapatana Su. 17.67 Falling of body-hairs Lohit-vrddhi Vi. 2.4 Tncrease oul blood (pressure) Syn, Sonitavrddhi Ci</title>
+		<idno>13.56</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+	<note>Excitation of blood &apos; : Raga Su. 20.15 Redness Romantika Ci. 15.92 Measles _ Rohini Su</note>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ci</forename><surname>Vatapirnadrtisparga</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>28.37 Swelling in touch like : bladder full of air Vicarcika Su. 5.11 Eczema</note>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<monogr>
+		<title level="m" type="main">12.69 Inflamation cf inguinal or | axillary lands | Reference Su</title>
+		<author>
+			<persName><forename type="first">_</forename><surname>Vidarika</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="27" to="224" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">22</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">128</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>17.128</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ni</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<monogr>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<title level="m">128 ?Si</title>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">6</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<monogr>
+		<title level="m" type="main">Name Reference Modern equivalent Margoparodha Su. 26.62 Obstruction in passayes Manmisa-ksaya -Su. 17.65 Dininution of flesh Syn</title>
+		<author>
+			<persName><surname>Sanskrit</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Mainsapariksaya Su</publisher>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<analytic>
+		<title level="a" type="main">29 ~ Paleness of face Mukha-phenagama Vi. 7.6(1) Foaming of mouth Mukhamadhury</title>
+		<author>
+			<persName><forename type="first">Mukhapanduta</forename><surname>Su</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Swectness in mouth Syn Asyamadhurya ? Ci</title>
+		<imprint>
+			<biblScope unit="volume">6</biblScope>
+			<biblScope unit="issue">5</biblScope>
+			<biblScope unit="page">14</biblScope>
+			<date type="published" when="1927-01-17">Su. 20.17, Ni. 1.27</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b111">
+	<analytic>
+		<title level="a" type="main">17.62 Dryness of mouth Syn</title>
+		<author>
+			<persName><forename type="first">Mukhagesa</forename><surname>Su</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Asyasuga Su</title>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b112">
+	<monogr>
+		<title level="m" type="main">18 Detects of Rasa Rogasamuha Su. 29.40 Group of disorders Romuahiarsa Ni. 1.21 Horripilation Lavanisyatii Su. 24.14 Saline taste in mouth Liptasyata | Ci. 3.89 Coating of mouth Lohitagandhasyata Su. 20.14 Fleshy odour in mouth Vidarika Ci</title>
+		<author>
+			<persName><forename type="first">Mukhasvava</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<date>20</date>
+			<biblScope unit="volume">23</biblScope>
+		</imprint>
+	</monogr>
+	<note>17 Salivation Medahikgaya Su. 17.66 Diminution of medas ( fat ) Rasa-ksaya Su. 17.64 Diminution of Rasa Rasapradoga Ci. 12.8 A hard cylindrical growth in vroil Or armpit</note>
+</biblStruct>
+
+<biblStruct xml:id="b113">
+	<monogr>
+		<title level="m" type="main">7.6, Ci. 14.155 Traction in vroins Varna-parikgaya Su. 23.27 Diminution of complexion Syn</title>
+		<author>
+			<persName><forename type="first">Vamksaninahia</forename><surname>Su</surname></persName>
+		</author>
+		<idno>Ci. 3.19</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b114">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ci</forename><surname>Alavana</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b115">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Avagaha</forename><surname>Su</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b116">
+	<analytic>
+		<title level="a" type="main">9 Draining out blood Avasthantara Su. 15,17 Conditional variations Avi-cikitsa Si. 11.19 Treatment of sheep Aigva-cikitsa Si. 11.19 Treatment of horses Asamyak prayoga Su</title>
+		<author>
+			<persName><forename type="first">Avamarjana</forename><surname>Ci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">23.61 Rubbing the site in reverse ? direction Avarodhana Ni. 7.8 Confinement Avasecana Su</title>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+		</imprint>
+	</monogr>
+	<note>Improper administration Atanka-viparita Vi. 2.13 Contrary to disease Atapa Su. 6.36 Sun ?</note>
+</biblStruct>
+
+<biblStruct xml:id="b117">
+	<analytic>
+		<title level="a" type="main">Conditioning of body Abhyantara ropana Ci. 21.136 Internal healing Abhyantara Sodhana _ Ci, 21.136 Internal cleausiny Arogya Su. 1.15 Frecdom from disorders Alepana Su</title>
+		<author>
+			<persName><forename type="first">Vi</forename><surname>Atyayika Karma</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">127 Emergent measures Abhyantara bhegaja Ci. 27.47 Internal remedy Sarirabhisarnskara Su</title>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+		</imprint>
+	</monogr>
+	<note>3.25 Application of paste Agcyotana Su. 5.19 Application of drops Asvasana Ci. 9.79 Consoling</note>
+</biblStruct>
+
+<biblStruct xml:id="b118">
+	<monogr>
+		<title level="m" type="main">1.84 Non-unctuous cuenia Syn. Nirtha Su</title>
+		<author>
+			<persName><forename type="first">Asthapana</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">90</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b119">
+	<analytic>
+		<title level="a" type="main">Urethral or vaginal douche Utthapana Ci. 28.96 Recovery Utsadana Su. 6.14, Su. 6.24 Anointing Syn</title>
+		<idno>Aharya Su. 25.40 Extractable Esana Ci. 12.97</idno>
+	</analytic>
+	<monogr>
+		<title level="m">Udvartana nO Sauskrtt Name Udarivestana Udavartahara karina Udeharsanua ? Syn</title>
+		<imprint>
+			<publisher>Pravharsana</publisher>
+		</imprint>
+	</monogr>
+	<note>Probing Utkartana Ci. 23.35 Cutting Uttarabasti Si</note>
+</biblStruct>
+
+<biblStruct xml:id="b120">
+	<monogr>
+		<title level="m">Ustra-cikitsa Erandapatra-bandhana Osadhi-harana Auttarabhaktika ehrta Ausadha Ausadha-pana Ausadha-vibhraméga Kantha-redhana Kaphamasaya-Sodhana Kainatarpana</title>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b121">
+	<monogr>
+		<title level="m" type="main">Karna-taila Karna-piirana Kartana Reference Modern equivalent Reference Modern equivalent Sthana-saligamana Ci</title>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+		</imprint>
+	</monogr>
+	<note>Replacement Snana Su. 5.94 . Bath Snehapana Su. 13.56 Intaka of uncting substance Snehana Su. 1.87 Unction Snehapicu Ci, 30.108 Unctuous tampon Snehabasti Su. 22.28 Unctuous enema</note>
+</biblStruct>
+
+<biblStruct xml:id="b122">
+	<monogr>
+		<title level="m" type="main">13.76 Faulty application of uncting, substance</title>
+		<author>
+			<persName><forename type="first">Snehavibhrama</forename><surname>Su</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b123">
+	<monogr>
+		<title level="m" type="main">Management with unction Snivdha udvartana Su. 21.32 ? Unctuous anointing Snigdha phalavarti Si. 11.31 Unctuons supposition Smarana Su</title>
+		<idno>Snehopacara Sh. 3.31</idno>
+		<imprint/>
+	</monogr>
+	<note>24.51 To produce memory Sramsana Su, 24.52 Purgation Srivana Su. 5.15 Draining Srotovibandha-moksa Ci. 8.174 To remove obstruction in channels</note>
+</biblStruct>
+
+<biblStruct xml:id="b124">
+	<monogr>
+		<title level="m" type="main">Automatic stoppage Svasthavrtta Su. 7.45 Code of conduct for the healthy ?</title>
+		<author>
+			<persName><forename type="first">Svaymavasthana</forename><surname>Su</surname></persName>
+		</author>
+		<idno>15.13</idno>
+		<imprint/>
+	</monogr>
+	<note>Svasthavrianuvrtti Su. 1L4 Observance of the code of conduct for the healthy</note>
+</biblStruct>
+
+<biblStruct xml:id="b125">
+	<monogr>
+		<title level="m" type="main">Preservation of health Sveda Su. 1.96 Sudation Svedapradu: bhava Su. 15.11 Appearance of sweat Svedana Su</title>
+		<idno>Svasthyaraksana Su. 30.26</idno>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+		</imprint>
+	</monogr>
+	<note>Sudation ( fomentation</note>
+</biblStruct>
+
+<biblStruct xml:id="b126">
+	<monogr>
+		<title level="m" type="main">Exhilaration Hetuvyadhiviparita Vi. 1.13 Contrary to cause and P disorder Hetuvyadhiviparitartha-Vi. 2.13 Serving the purpose of therakari py contrary to cause and disorder hs</title>
+		<author>
+			<persName><forename type="first">Harsana</forename><surname>Gi</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b127">
+	<monogr>
+		<title level="m" type="main">21.133 Cauterization by gold Hrdayavarana Ci. 23.36 Protection of heart</title>
+		<author>
+			<persName><forename type="first">Hernadaha</forename><surname>Gi</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>

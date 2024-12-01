@@ -1,0 +1,10 @@
+flask
+flask-cors
+requests
+langchain
+langchain-community
+langchain-openai
+langchain-anthropic  # Ensure this is included if it exists
+faiss-cpu
+python-dotenv
+pymilvus

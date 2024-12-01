@@ -1,0 +1,2392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xml:space="preserve" xmlns="http://www.tei-c.org/ns/1.0" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.tei-c.org/ns/1.0 https://raw.githubusercontent.com/kermitt2/grobid/master/grobid-home/schemas/xsd/Grobid.xsd"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+	<teiHeader xml:lang="en">
+		<fileDesc>
+			<titleStmt>
+				<title level="a" type="main">Syn. Eranda</title>
+				<funder ref="#_VUCu4Jz #_uEuZSUD">
+					<orgName type="full">unknown</orgName>
+				</funder>
+			</titleStmt>
+			<publicationStmt>
+				<publisher/>
+				<availability status="unknown"><licence/></availability>
+			</publicationStmt>
+			<sourceDesc>
+				<biblStruct>
+					<analytic>
+						<author>
+							<persName><forename type="first">Lauhitya</forename><surname>Su</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vamsalocana</forename><surname>Gi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Varsabht</forename><surname>Ci</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Trianthema</forename><surname>Portulacastrum</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Linn</forename><surname>Sanskrit Name</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Valliphala</forename><surname>Syu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Kismanda</forename><surname>Vasira</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vasuka</forename><surname>Varnsi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Syn</forename><surname>Varnsalocana</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vatyapuspi</forename><surname>Syn</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vatyayani</forename><surname>Bala</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Syn</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vatapotha</forename><surname>Sitapaki</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vatama</forename><surname>Palasa</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vapya</forename><surname>Vanira</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vayasapiluka</forename><surname>Kustha</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Syn</forename><surname>Vayasi</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Varija</forename><surname>Kakamaci</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vartaki</forename><surname>Kamala</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vartaku</forename><surname>Brhati</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Syn</forename><surname>Valuka</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vasa</forename><surname>Elavaluka</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Vastu</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Ka</forename><surname>Vikankata</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vikasa</forename><surname>Syn</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Vigandhika</forename><surname>Maijijistha</surname></persName>
+						</author>
+						<author>
+							<persName><forename type="first">Syn</forename><surname>Vijaya</surname></persName>
+						</author>
+						<author>
+							<persName><surname>Haritaki</surname></persName>
+						</author>
+						<author>
+							<affiliation key="aff0">
+								<orgName type="laboratory">Gandaka Gandiipada Gavaya Girivartaka Grdhra Grhagodha Syn. Grhagodhika Gokarna Godha Gonarda Gopaputra Gaudheyaka Cakora Cakravaka Catuspada Cataka Camara Caruska Casa Cirati Cilacima Cillata Culuki Jati Jambuka Syn. Srgala</orgName>
+								<address>
+									<country>Krakara Kraufica Krkalasa Syn. Krkantaka Krsna Sarpa Khanga Khara Kharavrsabha</country>
+								</address>
+							</affiliation>
+						</author>
+						<author>
+							<affiliation key="aff1">
+								<orgName type="laboratory">Svavit-rasa_ Asrg Syn. Rudhira, rakta Aja-rudhira Syn. Chaga rudhira, chagarakta Gorudhira Godharakta Chagadirakta bhasma APPENDIX Ill Reference</orgName>
+								<address>
+									<settlement>rasa Gramya-rasa Chaga-rasa Syn. Chaga-mamsarasa Tittiri-rasa Dhanva mrga-rasa Dhanva-Mrgarasa Naga-mamsarasa Prsata-rasa Mahisa rasa Barhi-rasa Syn. Sikhi-rasa Mamsodaka Marjara-rasa Lava-rasa Lopiaka-rasa Vartaka-rasa Sallaka-rasa</settlement>
+								</address>
+							</affiliation>
+						</author>
+						<title level="a" type="main">Syn. Eranda</title>
+					</analytic>
+					<monogr>
+						<imprint>
+							<date/>
+						</imprint>
+					</monogr>
+					<idno type="MD5">4D2307EDDB34D07B1DC4D85649F18183</idno>
+				</biblStruct>
+			</sourceDesc>
+		</fileDesc>
+		<encodingDesc>
+			<appInfo>
+				<application version="0.8.0" ident="GROBID" when="2024-09-03T06:40+0000">
+					<desc>GROBID - A machine learning software for extracting information from scholarly documents</desc>
+					<ref target="https://github.com/kermitt2/grobid"/>
+				</application>
+			</appInfo>
+		</encodingDesc>
+		<profileDesc>
+			<textClass>
+				<keywords>Sanskrit Name ?????????&quot;S?&lt;?~:S Reference Botanical Name</keywords>
+			</textClass>
+			<abstract>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>Botanical Name Eleusine aegyptiaca Desf Osmanthus fragrans Lour Prunus amygdalus Batsch Salix tetrasperma Roxb. Diospyros montana Roxb Solanum melongena Linn Adhatoda vasica Nees Chenopodium album Linn Flacourtia indica Merr Sanskrit Name Reference English equivalent ) Kanku Su. 27.52 -Katumatsya Ci. 30.120 Kanabha Ci. 22.9</p></div>
+			</abstract>
+		</profileDesc>
+	</teiHeader>
+	<text xml:lang="en">
+		<body>
+<div xmlns="http://www.tei-c.org/ns/1.0"><p>$almala(i),ka) <ref type="bibr">Vi. 8.135,</ref><ref type="bibr">Ci. 15.113,</ref><ref type="bibr">Si. 10</ref>   <ref type="bibr">Ci. 5.79,</ref><ref type="bibr">10.20,</ref><ref type="bibr">Su. 23.15 Ci. 12.50,</ref><ref type="bibr">16.89,</ref><ref type="bibr">24,</ref><ref type="bibr">128 Su. 2.9,</ref><ref type="bibr">13.66 Ci. 6.40,</ref><ref type="bibr">12.39,</ref><ref type="bibr">43 Ci. 26.81 Ci. 15.229 Su. 3.19</ref> Ci. 12.50 <ref type="bibr">Ci,</ref><ref type="bibr">19.103 Ci. 11.56,</ref><ref type="bibr">84,</ref><ref type="bibr">12.98,</ref><ref type="bibr">25.63 Ci. 25.54 Ci. 12.61,</ref><ref type="bibr">14.71,</ref><ref type="bibr">30:264 Vi. 7.21</ref> Ci. 10.17 </p></div><figure xmlns="http://www.tei-c.org/ns/1.0" xml:id="fig_2"><head>Si</head><label></label><figDesc></figDesc></figure>
+<figure xmlns="http://www.tei-c.org/ns/1.0" type="table" xml:id="tab_0"><head></head><label></label><figDesc>SunthiSu. 27.256, Ci. 5.74 etc. Zingiber officinale Roscoe.</figDesc><table><row><cell>Cinnamomum cassia Blume 728 CARAKA-SAMHITA Syn. Sveta Sanskrit Name</cell></row><row><cell>Sanskrit Name Reference Botanical Name $ugandhaka, Sugandhika Su. 27.9, Ni. 4.5</cell></row><row><cell>$almali Su. 4.32, Vi. 8.135 Salmalia malabarica Schott &amp; (a variety of Sali ) Srngavera</cell></row><row><cell>Endl , Syn, Sunthi</cell></row><row><cell>Simsapa Su. 25.49, Ci. 1-2,12 etc. Dalbergia sissoo Roxb Subha Ci. 8.145 Sriigaverika</cell></row><row><cell>Sigru(ka) Su. 2.3, 4.27 ete. Moringa pterygosperma Syn. VamSsalocana Srigata(ka)</cell></row><row><cell>Gaertn. Sukadhanya Su. 27.6 rmgatika</cell></row><row><cell>.36 Sitivaraka Ci. 26.56, 60 etc. Celosia argentea Linn Sukari Ci. 9.46 Srigi</cell></row><row><cell>Simbira Su. 27.18 Elcusine flagellifera Nees. Syn. Karkatasmngi</cell></row><row><cell>Botanical Name Simbi Su. 27.32 Dolichos lablab Linn Syn. Varahi Sragivisa</cell></row><row><cell>Sirisa Su. 4.16, 47 ete. Albizzia lebbeck Benth elu</cell></row><row><cell>Asparagus racemosus Willd Silodbheda Su. 4.49, etc. Syn. Slesmataka</cell></row><row><cell>Syn. Pasanbheda Saikharika</cell></row><row><cell>Prosopis spicigera Linn iva Su. 4.49, etc. Syn. Vidanga</cell></row><row><cell>Syn. Amalaki Saileya(ka)</cell></row><row><cell>i] Sitaka Vi. 8.140 Syn. Silapuspa</cell></row><row><cell>Syn, Sitaphala aivala</cell></row><row><cell>Saccharum munja Rox &gt; $itakumbhika Ci. 3.258</cell></row><row><cell>Boswellia serrata Roxb. Syn, Patala Sobhaiijanaka</cell></row><row><cell>Sitapaki Vi. 8.139, Ci, 3.258 Syn. Madhusigru</cell></row><row><cell>Dregia volubilis Benth Sttavalli Ci. 3.267</cell></row><row><cell>Shorea robusta Gaertn Sukabarha Su. 5.23</cell></row><row><cell>Syn. Sthauneyaka</cell></row><row><cell>Desmodium gangeticum Suktipatra Su. 25.49</cell></row><row><cell>DC. Syn. Badan</cell></row><row><cell>Oriza sativa Linn Sukla Surasa Ci. 23.101</cell></row><row><cell>Sukla Vi. 8.139</cell></row></table></figure>
+		</body>
+		<back>
+
+			<div type="funding">
+<div><p><rs type="projectName">Bile of fish Bile of rohita fish Bile of boar Bile of jackal Bile of dog Meat-soup of goat Meat-soup of horse Meat-soup of fawn deer Meat-soup of marshy animals Meat-soup of camel Juice of aquatic animals Juice of crab Juice of crow Juice of black-tailed deer Juice of cock Juice of tortoise Juice of the meat of carnivo rous animals Sanskrit Name Go-rasa Syn. Go-mamsarasa English equivalent Juice of bull meat Juice of the meat of iguana</rs>. Juice of the meat of domestic animals. Juice of goat?s flesh Juice of the meat of partridge Juice of the meat of wiid animals Juice of the meat of wild birds ? Juice of the meat of elephant Juice of the meat of spotted deer Juice of buffalow?s meat Juice of pecock?s flesh Meat-water Juice of cat?s flesh Juice of the meat of common quail Juice of fox?s flesh Juice of the flesh of male bustard Juice of porcupine?s flesh Juice of pangolin?s flesh Blood ) ) Goat?s blood Bull?s blood. Iguanas blood. Ash of the blooa of goat etc, <rs type="projectName">CARAKA-SAMHITA Sanskrit Name</rs></p></div>
+			</div>
+			<listOrg type="funding">
+				<org type="funded-project" xml:id="_VUCu4Jz">
+					<orgName type="project" subtype="full">Bile of fish Bile of rohita fish Bile of boar Bile of jackal Bile of dog Meat-soup of goat Meat-soup of horse Meat-soup of fawn deer Meat-soup of marshy animals Meat-soup of camel Juice of aquatic animals Juice of crab Juice of crow Juice of black-tailed deer Juice of cock Juice of tortoise Juice of the meat of carnivo rous animals Sanskrit Name Go-rasa Syn. Go-mamsarasa English equivalent Juice of bull meat Juice of the meat of iguana</orgName>
+				</org>
+				<org type="funded-project" xml:id="_uEuZSUD">
+					<orgName type="project" subtype="full">CARAKA-SAMHITA Sanskrit Name</orgName>
+				</org>
+			</listOrg>
+			<div type="annex">
+<div xmlns="http://www.tei-c.org/ns/1.0"> <ref type="bibr">Su. 4.11,</ref><ref type="bibr">13,</ref><ref type="bibr">15,</ref><ref type="bibr">27 Ci. 18.176,</ref><ref type="bibr">29.94 Su. 4.44,</ref><ref type="bibr">25.46 Su. 4.9,</ref><ref type="bibr">21 Su. 4.23 Ci. 6.40,</ref><ref type="bibr">7.65 Vi,</ref><ref type="bibr">8.139 Su. 27.4,</ref><ref type="bibr">166,</ref><ref type="bibr">296 Su. 2.29,</ref><ref type="bibr">Ci,</ref><ref type="bibr">Ci,</ref><ref type="bibr">3.309 Su. 1.78,</ref><ref type="bibr">Ci. 10.42 Su. 4.49 Su,</ref><ref type="bibr">4.17 Vi. 8.139,</ref><ref type="bibr">34 Su. 27.101 Ci. 6.30 Su. 4.19 Su. 4.35 Su. 4.10,</ref><ref type="bibr">23,</ref><ref type="bibr">37 Ci. 10.34,</ref><ref type="bibr">45 Su. 4.22,</ref><ref type="bibr">26,</ref><ref type="bibr">36 Su. 23.15 Su. 4</ref></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Garcinia indica Chois</head><p>Tragia involucrata Linn. <ref type="bibr">Su. 27.20 Su. 3.27,</ref><ref type="bibr">27,</ref><ref type="bibr">109 i. 12.55 Su 3.26,</ref><ref type="bibr">Ci,</ref><ref type="bibr">3.258 Su. 5.65,</ref><ref type="bibr">Ci. 10.211 Su. 13.84,</ref><ref type="bibr">939 Su. 27.15,</ref><ref type="bibr">33 Su. 27.8 Su. 4.4,</ref><ref type="bibr">31 etc. Su. 4.4,</ref><ref type="bibr">25.49 etc. Su. 4.30,</ref><ref type="bibr">37 etc. Su. 27.99,</ref><ref type="bibr">104 etc. Su. 1.78,</ref><ref type="bibr">79,</ref><ref type="bibr">4.</ref> Reference ou Botanical Name <ref type="bibr">Ka. 12.4 Ci. 5.107,</ref><ref type="bibr">153,</ref><ref type="bibr">174 ex. Su. 27.88,</ref><ref type="bibr">Ci. 14.239 etc. Marsilia minuta Linn Su. 3.4,</ref><ref type="bibr">14 ete. Su. 26.84,</ref><ref type="bibr">27.173 etc. Su. 4.18,</ref><ref type="bibr">26 etc. Su. 5.65,</ref><ref type="bibr">Ci. 23,</ref><ref type="bibr">243 etc. Su. 2.4,</ref><ref type="bibr">3.8,</ref><ref type="bibr">4.37 etc. Ocimum sanctum Linn Su. 3.3,</ref><ref type="bibr">Ci. 6.25 etc. Su. 27.99 etc. Ci,</ref><ref type="bibr">7.77 Vi. 7.21 Su. 4.4. 16 Vi. 8.135 ete. Su. 4.16,</ref><ref type="bibr">7.46 etc Su. 14.32. Ci. 26.268</ref> Barleria cristata Linn Sas Reference <ref type="bibr">Ci. 1=4.7 Su,</ref><ref type="bibr">2.24,</ref><ref type="bibr">Ci. 23.80 etc. Su 4.33,</ref><ref type="bibr">VI. 8.135 etc.</ref> Botanical Name Psoralea corylifolia Linn <ref type="bibr">Vi. 8.139</ref> Sarcostemma acidum Voigt <ref type="bibr">Su. 3.10,</ref><ref type="bibr">4.34 etc. \ Vi. 8.135,</ref><ref type="bibr">Ka. 4.16 Su. 4.7,</ref><ref type="bibr">50 etc. Ci. 3.267,</ref><ref type="bibr">12.65,</ref><ref type="bibr">23.54 ete. Taxus baccata Linn Su. 25.140,</ref><ref type="bibr">Ci. 23,</ref><ref type="bibr">241 etc. Su. 1.114,</ref><ref type="bibr">115 etc. Ci. 12.66,</ref><ref type="bibr">22.54 etc.</ref> Euphoria neriifolia Linn Delphinium zalil Aitch &amp; Hemsl. <ref type="bibr">Vi. 8.144 Calligonum polygonoides Linn Su. 25.49,</ref><ref type="bibr">Vi. 8.144 Ci. 1=1,</ref><ref type="bibr">11.45 ete. Sn. 4.15,</ref><ref type="bibr">26,</ref><ref type="bibr">35 etc. Su. 4.4,</ref><ref type="bibr">Ci. 13.126</ref> ete. Euphorbia thomsoniana Boiss Si. 10.31 | Jasminum humile Linn <ref type="bibr">Vi. 8.135 etc. Su. 4.9,</ref><ref type="bibr">Vi. 8.135 etc. Adiantum lunulatum Burn Su. 23.20,</ref><ref type="bibr">Ci. 5.71,</ref><ref type="bibr">79 etc. Juniperus communis Linn Ci. 28.173 Su. 3</ref> </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Su.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Su.</head><p>Ci. <ref type="bibr">.8 . 2.5,</ref><ref type="bibr">4.3,</ref><ref type="bibr">13 ete. . 25.40,</ref><ref type="bibr">Vi. 8. 133 etc. 2.4,</ref><ref type="bibr">3.5,</ref><ref type="bibr">5.20 ete,</ref><ref type="bibr">1.77 . 1.82,</ref><ref type="bibr">84,</ref><ref type="bibr">etc. . 8.139,</ref><ref type="bibr">Ci. 13.108 etc. 27.17 27.12 etc. 26.84 23.13 . 267,</ref><ref type="bibr">26.60 etc. Su. 4.6,</ref><ref type="bibr">37,</ref><ref type="bibr">48 etc.</ref> . 9.66 Ci.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>CARAKAsSAMHITA</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Reference</head><p>10.37 <ref type="bibr">Ka. 1 . 3.29,</ref><ref type="bibr">Ci,</ref><ref type="bibr">12.40 etc. Ka. 12.23 . 1.77,</ref><ref type="bibr">79,</ref><ref type="bibr">4.3 ete. . 2.21,</ref><ref type="bibr">4.22,</ref><ref type="bibr">41</ref>  Varaha-Vrsana Si. 12.17(8) Testicles of boar Viskira Si. 12.17(4) Gallinaceous birds ° Vrka (miitra pitta, fakrt, Ci. 9.75 Urine, bile, faeces, hair, nail loma, nakha, carma) and skin of wolf Vrsa?Vrsana Si. 12.17   <ref type="bibr">Ci. 12.43,</ref><ref type="bibr">13,</ref><ref type="bibr">127</ref> Yavaksara and Svarjiksara Gandha(dravya) <ref type="bibr">Gi. 28.117,</ref><ref type="bibr">Su,</ref><ref type="bibr">3.19 Aromatic drugs Syn. Gandhausadha Vi. 8.14,</ref><ref type="bibr">Ci. 26.175</ref> Drugs of Agurvadya group tagara, agurupatradya) minus kustha and tagara Grahivarga Si. 8.24 Astringent drugs Caturlavana Ci. 12.43 Pafica lavana minus samudra ( saindhava, sauvarcala, : bida, audbhida ) Catuhsneha <ref type="bibr">Su. 3.19,</ref><ref type="bibr">Ci. 8.76 Ghee,</ref><ref type="bibr">oil,</ref><ref type="bibr">fat and marrow. CGandanadya Ci. 3.256</ref> Candana etc. Sitavirya drugs Jivakadi gana <ref type="bibr">Gi. 1.1.41,</ref><ref type="bibr">26 271 Jivaka,</ref><ref type="bibr">Rsabhaka,</ref><ref type="bibr">Tamalaki mula,</ref><ref type="bibr">madhurapaficaka Trnapaficamala Ci,</ref><ref type="bibr">1.1.41,</ref><ref type="bibr">22.27,</ref><ref type="bibr">22.30 Sara,</ref><ref type="bibr">iksu,</ref><ref type="bibr">darbha,</ref>.48 sali milla, Saradi gana Taila-phala <ref type="bibr">Gi. 26.41,</ref><ref type="bibr">28.117</ref>   <ref type="bibr">182 Si,</ref><ref type="bibr">8.24 Ci. 1.1.4.42 Ci. 26.23,</ref><ref type="bibr">67 sthiradi Paficamila Ci. 8.133 Hrasva Pajicamuli Ci,</ref><ref type="bibr">11.56</ref> Satyadi gana</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Salaparnyadi gana</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sarvabija</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sarvaratna</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sarvarasa</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Svaduphala</head><p>Haimavata gandha ( dravya )  Vi. 7.17 <ref type="bibr">Gi,</ref><ref type="bibr">1.3.16,</ref><ref type="bibr">13.73 Ci. 18.148 Vi. 7.26 Su. 7.7 Vi. 8.135,</ref><ref type="bibr">Ka. 1.23 Vi. 7.25 Vi. 7.22,</ref><ref type="bibr">Ka. 12.6 Ci. 26.267 Vi. 7.23,</ref><ref type="bibr">Ci. 1.1.46 Vi. 7.26,</ref><ref type="bibr">Ci. 1.3.19 Si. 10.16,</ref><ref type="bibr">10</ref>.17 Su. 4.7, 15.17 <ref type="bibr">Ci,</ref><ref type="bibr">3.161 Su. 4.3 Su. 4.3 Ci. 6.46 Ci,</ref><ref type="bibr">1.1.46 Ci. 1.3.15 Ci. 13,</ref><ref type="bibr">139,</ref><ref type="bibr">26,</ref><ref type="bibr">277 Ci,</ref><ref type="bibr">Ka,</ref><ref type="bibr">29.78 Vi. 7.17 Ci. 16.64 Ci. 1.2.16 Gi,</ref><ref type="bibr">2.1.32,</ref><ref type="bibr">8.148,</ref><ref type="bibr">Si. 3.9 Ci,</ref><ref type="bibr">18.146 Ci,</ref><ref type="bibr">14.201 ~ Gi,</ref><ref type="bibr">2.1.38 Ci,</ref><ref type="bibr">21.65 Ka. 4.10 Ci,</ref><ref type="bibr">3.24 Vi. 8.135 Su. 3,</ref><ref type="bibr">6</ref> English equivalent  <ref type="bibr">Ka. 7.55 Ci. 23.104,</ref><ref type="bibr">1.1.58 Ci,</ref><ref type="bibr">1.2.14 Vi. 7.17 Ci,</ref><ref type="bibr">19.51 Vi. 7.25,</ref><ref type="bibr">Ci. 3.258 Vi. 7.17 Su. 3.16,</ref><ref type="bibr">Ci. 14.190 Vi. 7.22 Su. 5.24,</ref><ref type="bibr">Ci. 3.255 Cj. 3.255 Su. 3.16 Vi. 7.25 Ci. 1.1.66 Ci,</ref><ref type="bibr">22.42,</ref><ref type="bibr">43 Vi. 7.17 Ci,</ref><ref type="bibr">1.2.7 Ci,</ref><ref type="bibr">3.197 Vi. 7.21 Vi. 7.25 Ka,</ref><ref type="bibr">6.8 Vi. 7.26 Ci. 21.81 Ci. 1.2.14 Ci. 1.1.58 Ci. 1.1.75,</ref><ref type="bibr">Ka. 12.6 Ci,</ref><ref type="bibr">21.98 Ci. 19.19 Ci,</ref><ref type="bibr">21.98</ref> Se -?  <ref type="bibr">Cj. 25.118,</ref><ref type="bibr">20.30 Ci. 22.51 Su,</ref><ref type="bibr">27.323,</ref><ref type="bibr">Ci. 6</ref>  <ref type="bibr">Ci. 14.190,</ref><ref type="bibr">192,</ref><ref type="bibr">26.195</ref>   <ref type="bibr">Ci. 16.76,</ref><ref type="bibr">16.104,</ref><ref type="bibr">18.105,</ref><ref type="bibr">Bolus Syn. Guda Ka. 7.43 Varnaka Ci,</ref><ref type="bibr">7.92,</ref><ref type="bibr">23.118 Cosmetic Varti Su. 7.9</ref>   In.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Ci.</head><p>Vi.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sh.</head><p>Ci.</p><p>In.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Su.</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Su.</head><p>Si.</p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Su.</head><p>Ci.</p><p>Ci. </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Su</head></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Sh.</head><p>15.7, <ref type="bibr">Ci,</ref><ref type="bibr">24.14 12.50 13.47,</ref><ref type="bibr">48 8.9,</ref><ref type="bibr">Sh. 8.46 15.7 15.7 15.6 15.6,</ref><ref type="bibr">Vi. 7.21,</ref><ref type="bibr">22,</ref><ref type="bibr">8.34 Vi,</ref><ref type="bibr">7.23,</ref><ref type="bibr">Ci. 1.2.4</ref> English equivalent </p></div>
+<div xmlns="http://www.tei-c.org/ns/1.0"><head>Hide of deer</head></div>			</div>
+			<div type="references">
+
+				<listBibl>
+
+<biblStruct xml:id="b0">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="1920">3.18, 20</date>
+			<biblScope unit="page">21</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b1">
+	<monogr>
+		<title level="m" type="main">160 etc. Su</title>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">49</biblScope>
+			<biblScope unit="page" from="23" to="34" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b2">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page" from="10" to="19" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b3">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">15</biblScope>
+			<biblScope unit="page">55</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b4">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>Ci. 14.95</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b5">
+	<monogr>
+		<title level="m" type="main">27.96, Gi</title>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">71</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b6">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">102</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b7">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b8">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<date>4.17, 5.5 etc</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b9">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b10">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page" from="27" to="116" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b11">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Ci</title>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">75</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b12">
+	<monogr>
+		<title level="m" type="main">27.171 Zingiber cassumunar Roxb Su. 25.49, Ci. 3.258 etc. Trapa bispinosa Roxb Vi. 8.139 Peda&apos;eum murex Linn Su</title>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">36</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b13">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Vi</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2019">7.19</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b14">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>Ci. 28.153</idno>
+		<imprint/>
+	</monogr>
+	<note>2.26, 21.25 Echinochloa frumentacca Link Su. 4.26, 38.42 etc. Oroxylum indicum Vent Vi. 8.139, Ci, 3.258 etc</note>
+</biblStruct>
+
+<biblStruct xml:id="b15">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>Ci. 10.20</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b16">
+	<monogr>
+		<title level="m" type="main">3.3, Ci</title>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">30</biblScope>
+			<biblScope unit="page">107</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b17">
+	<monogr>
+		<title level="m" type="main">159 etc. Cordia myxa Roxb 720 CARAKA-SAMHITA Sanskrit Name Reference Botanical Name Svasana Ka</title>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b18">
+	<monogr>
+		<title level="m" type="main">Madama Sveta karavira Ci</title>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b19">
+	<monogr>
+		<title level="m" type="main">Sveta kumbhika Ci. 3,258 Careya arborea Roxh Svetanama Su</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">77</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b20">
+	<monogr>
+		<title level="m" type="main">Sveta éveta bhandi Ci</title>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">245</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b21">
+	<monogr>
+		<title level="m" type="main">Kinihi Syeta marica Ci. 26.245, 246 éyeta mrdvika Su</title>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">180</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b22">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ci</forename><surname>Sveta</surname></persName>
+		</author>
+		<idno>Si. 3.62</idno>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b23">
+	<monogr>
+		<title level="m" type="main">Haimavati Sveta Sali Ci</title>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">21</biblScope>
+			<biblScope unit="page">113</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b24">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sveta</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+	<note>White-flowered variety of Gririkarnika. see Girikarnika</note>
+</biblStruct>
+
+<biblStruct xml:id="b25">
+	<monogr>
+		<title level="m" type="main">etc. Syn. Vaca Sastika Sy. 4.17, 28, 40 etc</title>
+		<idno>Sadgrantha Ci. 30.204</idno>
+		<imprint>
+			<biblScope unit="page">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b26">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sankoca</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<date>2-3.28</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b27">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kunkuma Sankocavisa</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b28">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Samvartaka</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">258</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b29">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Samharsa</forename><surname>Vi</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">139</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b30">
+	<analytic>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Uccata Satina</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">139 Pisum sativum Linn Sadapusp4</title>
+		<imprint>
+			<date>Sadapuspi Su. 4.23, Vi-8.135</date>
+			<biblScope unit="volume">24</biblScope>
+			<biblScope unit="page">73</biblScope>
+		</imprint>
+	</monogr>
+	<note>etc. Syn. Arka Saptacchada Ci. 6.. Botanical Name</note>
+</biblStruct>
+
+<biblStruct xml:id="b31">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Trivrt</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b32">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Sarja</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Vateria indica Linn Sarja</title>
+		<imprint/>
+	</monogr>
+	<note>nama) Su. 35, Ci. 3 258 etc. rasa) Su. 3.10, 5.22 etc. ( Exudation of Sarja</note>
+</biblStruct>
+
+<biblStruct xml:id="b33">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sarpacchatraka</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b34">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sarpa</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="page" from="1" to="4" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b35">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ka</forename><surname>Sarvanubhiti</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b36">
+	<monogr>
+		<title level="m" type="main">Trivrt Sarsapa Su. 4 14, 25, 271 etc. Brassica campestris Var. sarson Prain Sahakara Ka</title>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">31</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b37">
+	<analytic>
+		<title level="a" type="main">Amra Sahacara Ci. 26.264, 28.144 etc. Syn</title>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Saireyaka Sahadeva Vi. 8.139 Sida rhombifolia Linn. Mast Sahasaravirya Su. 4.49, Ci, 4.102 etc. Asparagus sarmentosa Linn Saha Ci</title>
+		<imprint>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b38">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Mudgaparni</forename><surname>Syn</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Sarivakhya</forename><surname>Sariva</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b39">
+	<monogr>
+		<title level="m" type="main">142 Zizyphus jujuba Mill (biggest variety of Badara) Sita giri Ci</title>
+		<author>
+			<persName><forename type="first">Sificitika</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">95</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b40">
+	<analytic>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">Sveta Sita marica Gi.193 _ Siddharth (ka) Ci. 9</title>
+		<title level="s">135 ete. Syn. Gaura Sarsapa Sind</title>
+		<imprint>
+			<biblScope unit="volume">69</biblScope>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+	<note>h)uvara</note>
+</biblStruct>
+
+<biblStruct xml:id="b41">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sinduvarika</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<date>3.28, 4.16, Ci. 23.79, 195 etc</date>
+		</imprint>
+	</monogr>
+	<note>white variety of Nirgundi</note>
+</biblStruct>
+
+<biblStruct xml:id="b42">
+	<monogr>
+		<title level="m" type="main">Sanskrit Name Reference English equivalent Jarjara In</title>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">15</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b43">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Jalauka</forename><surname>Ci</surname></persName>
+		</author>
+		<idno>17.118</idno>
+	</analytic>
+	<monogr>
+		<title level="j">Leech Jahaka Ci</title>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b44">
+	<monogr>
+		<title level="m" type="main">51 Grey hornbill Dvikakuda Ci. 14.207 Two-humped Camel Dvipin Su</title>
+		<author>
+			<persName><forename type="first">Dundubhi</forename><surname>Su</surname></persName>
+		</author>
+		<idno>27.35 Panther Dhimika Su. 27.37 Owlet Nakula Su. 27.38 Mongoose Nandimukha Su. 27.43 Flamingo Nemi In. 1.15</idno>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b45">
+	<monogr>
+		<title level="m" type="main">Wood pigeon Paksin Su. 0.28 Bird Patanga Sh, 8.59 Flying insect Syn</title>
+		<author>
+			<persName><forename type="first">Nyanku</forename><surname>Su</surname></persName>
+		</author>
+		<idno>27.39 Hog deer Pandavika Su. 27.53</idno>
+		<imprint/>
+	</monogr>
+	<note>Salabha Pasu Sh. 8.59 Beast Pakahamsa Su. 25.38 Mute swan Pakkara Su. 27,51 Green barbet Paravata Su. 27.53 Dove Pipilika Vi. 7.10 Ant Pundarika Ka. 1.9</note>
+</biblStruct>
+
+<biblStruct xml:id="b46">
+	<analytic>
+		<title level="a" type="main">Lily trotter Pysata Su.27.45 Spotted deer Prawuda Su. 27.53 Pecking birds Pravala Ci. 26.49 Coral Syn. Vidruma Sauskrit Name Reference English equivalent Go-Bala Ci. 17,79 Hairs of cow Go-Vrsana Si</title>
+		<author>
+			<persName><forename type="first">Pundarikaksa</forename><surname>Su</surname></persName>
+		</author>
+		<idno>27.43 Whitc-eyed pochard Puskarahva Su. 27.42</idno>
+	</analytic>
+	<monogr>
+		<title level="s">Testicles of bull Gofphga Ci</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">8</biblScope>
+		</imprint>
+	</monogr>
+	<note>17.79 Horns of cow Go-Snayu Ci. 17,79 Sinews of cow</note>
+</biblStruct>
+
+<biblStruct xml:id="b47">
+	<monogr>
+		<author>
+			<persName><surname>Catuspada (tvag</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<title level="m">118 Skin, hairs, hoof, horn and khura</title>
+		<meeting><address><addrLine>Spiga, asthi</addrLine></address></meeting>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b48">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Carma</forename><surname>Su</surname></persName>
+		</author>
+		<idno>. 1.69</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">37</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b49">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Casa-Roma</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b50">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Basta</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>mitra, pitta, fakrt, Ci. 9.75 loma, nakha, carma</note>
+</biblStruct>
+
+<biblStruct xml:id="b51">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Bast-Roma</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">40</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b52">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Bastagiras</forename><surname>Su</surname></persName>
+		</author>
+		<idno>Ci. 8.73</idno>
+		<imprint>
+			<date type="published" when="1429">1429</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b53">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Basta-Vrsana</forename><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b54">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Chagantaradhi</forename><surname>Ci</surname></persName>
+		</author>
+		<idno>14.209</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b55">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Jambuka</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>mitra, pitta, Ci. 9.75 fakrt, loma, nakha, carma</note>
+</biblStruct>
+
+<biblStruct xml:id="b56">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jahaka-Roma</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">111</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b57">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Tittiri</forename><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b58">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Dvigapha-Khura</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">118</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b59">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Dvisapha-Carma</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b60">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Nakula (tunda</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b61">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Nakha</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">69</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b62">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Nakha</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+			<biblScope unit="page">20</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b63">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Nrkesa</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">49</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b64">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Pratuda</forename><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b65">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Matsya-Siras</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">9</biblScope>
+			<biblScope unit="page">73</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b66">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Mayira</forename><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b67">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">(</forename><surname>Mayira</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+		</imprint>
+	</monogr>
+	<note>156 §akrt, tunda, anghri</note>
+</biblStruct>
+
+<biblStruct xml:id="b68">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Mayira</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>apitta?pakgapadasyantra</note>
+</biblStruct>
+
+<biblStruct xml:id="b69">
+	<monogr>
+		<title level="m" type="main">(3) bone of quadrupeds Skin Hairs of casa Urine, bile, faeces, hairs, nails and skin of goat</title>
+		<author>
+			<persName><surname>Si</surname></persName>
+		</author>
+		<idno>12.17</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b70">
+	<monogr>
+		<title level="m" type="main">Jangala rakta Mrga-rudhira Maga javiv arahasrk Mrga, go, mahiga, aja (sadyaska asrk) Mesarakta Sallaka-Sonita Sasa, ena etc ( sadyaska sonita) Varaha-asrk Syn</title>
+		<idno>Su. 3.6, Ci. 7.171, 14.53</idno>
+		<imprint>
+			<publisher>Varaha-rudhira</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b71">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">206</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b72">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">48</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b73">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b74">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>14.214 . 2.1.46</idno>
+	</analytic>
+	<monogr>
+		<title level="s">22.186, Si</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="issue">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b75">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>Ci. 28.185</idno>
+		<imprint>
+			<biblScope unit="volume">5</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b76">
+	<monogr>
+		<title level="m" type="main">English equivalent Reference Taraksu-mamsa ( rasayana Si</title>
+		<author>
+			<persName><surname>Si</surname></persName>
+		</author>
+		<idno>12.17(5) Si. 12</idno>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b77">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Si</surname></persName>
+		</author>
+		<idno>Ci. 14.206, 17.112</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b78">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">206</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b79">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<date>1.68, 5.25</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b80">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">11</biblScope>
+			<biblScope unit="page">27</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b81">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">141</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b82">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">56</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b83">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>26.40</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b84">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">128</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b85">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">252</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b86">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">128</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b87">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>14.48</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b88">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">128</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b89">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>Su. 26.84</idno>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b90">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">69</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b91">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">124</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b92">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Cj</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">124</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b93">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>17.118</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b94">
+	<monogr>
+		<title level="m" type="main">English equivalent Flesh of common quail Boar?s flesh Porcupine?s flesh Rabbit?s flesh Flesh of black buck Muscle-fat Goat?s fat Muscle-fat of marshy animals and birds Muscle-fat of camel Muscle-fat of bear Muscle-fat of tortoise Muscle-fat of black serpent Muscle-fat of gangetic dolphin Muscle-fat of bat Muscle-fat of crocodile Muscle-fat of fish Fat-water Boar?s fat Boar?s muscle-fat Cat?s muscle-fat Tiger?s muscle-fat Serpent?s mus¢le-fat Lion?s muscle-fat Elephant?s ichor ? Bone Bone of marshy animals Bones of aquatic animals Bones of single-hoofed animals Bones of demoiselle crane CARAKA</title>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<idno>23.15</idno>
+		<imprint>
+			<biblScope unit="volume">10</biblScope>
+			<biblScope unit="page">40</biblScope>
+		</imprint>
+	</monogr>
+	<note>SAMHITA Reference? Kharasthi Ci. 7.168</note>
+</biblStruct>
+
+<biblStruct xml:id="b95">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ci</forename><surname>Ga</surname></persName>
+		</author>
+		<idno>14.55</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b96">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Gramya-Asthi</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">28</biblScope>
+			<biblScope unit="page">124</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b97">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Dvisapha-Asthi</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b98">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Plavasthi</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">26</biblScope>
+			<biblScope unit="page">239</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b99">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Balakasthi</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">98</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b100">
+	<monogr>
+		<title level="m" type="main">118 $yva-skandha-asthi-nakhara-Ci</title>
+		<author>
+			<persName><forename type="first">Srigi-Asthi</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">38</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b101">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Parguka</forename><surname>Sdrasasthi</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Ci</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">48</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b102">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Majja</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">68</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b103">
+	<monogr>
+		<title level="m" type="main">Antpa mrgapaksi-majja Ci</title>
+		<imprint>
+			<biblScope unit="volume">29</biblScope>
+			<biblScope unit="page">141</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b104">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Retas</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">69</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b105">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Kukkutandarasa</forename><surname>Si</surname></persName>
+		</author>
+		<idno>12.16</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b106">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Daksa-Anda</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">2</biblScope>
+			<biblScope unit="page">50</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b107">
+	<monogr>
+		<title level="m" type="main">Kukkutanda-tvak 26</title>
+		<author>
+			<persName><surname>Kukkutanda-Kapala Ci</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">246</biblScope>
+			<biblScope unit="page">247</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b108">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Kuliiganda -Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">148</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b109">
+	<monogr>
+		<title level="m" type="main">) Go-andarasa Si</title>
+		<author>
+			<persName><forename type="first">Kulinga-Andarasa</forename><surname>Si</surname></persName>
+		</author>
+		<idno>Gonarda-andarasa Si. 12.17</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b110">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Cakora-Andarasa</forename><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b111">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Catakandarasa</forename><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b112">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Jivaiijiva-Andarasa</forename><surname>Si</surname></persName>
+		</author>
+		<idno>Nakranda Ci. 2-2.28</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b113">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Nakra-Andarasa</forename><surname>Si</surname></persName>
+		</author>
+		<idno>Nakra-retas Ci. 2.1.48</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b114">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Naga-Andarasa</forename><surname>Si</surname></persName>
+		</author>
+		<idno>Barhina-anda Ci. 2.1.49</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b115">
+	<analytic>
+		<title level="a" type="main">nails and ribs of dog Bones of Indian crane Bone-marrow Bone-marrow of marshy animals and birds Semen Juice of hen?s egg Hen?s egg Crust of hen?s egg Sparrow?s egg Juice of sparrow?s egg Juice of bull?s testicles Juice of the eggs of hill partridge Juice of the.eggs of cakora Juice of the eggs of tree sparrow Juice of the eggs of peacock pheasant Crocodile?s testicles Juice of the testicles of crocodile Semen of crocodile Juice of testicles of elephant Peacock?s eggs Testicles of goat ee Sanskrit Name Reference English equivalent Mattaksa-andarasa_, Si</title>
+		<author>
+			<persName><forename type="first">Bastanda</forename><surname>Ci</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="m">22 Horse?s faeces Aéva-Sakrtpinda Ci. 14.41 Faecal mass of horse Afvatara-Sakrdrasa Ka. 4,12 Juice of mule?s faeces Ustra-Sakrdrasa Ci. 17.116 Juice of camels faeces Rsabha-Sakrdrasa Ka. 4.12 Juice of bull?s faeces Rsya-Sakrdrasa Ka. 4.12 Juice of Rsya?s faeces 751 Sanskrit Name Kapota-vit Kukkuta-Sakrt Syn, Daksa-vit Khara-Sakrdrasa Khara-Sakrtpinda Varaha-vit Gaja-Sakrdrasa Kuiijara-purisa Kuranga-Sakrdrasa Gokarna-sakrdrasa Gomaya Syn. Gopuriga, gofakrt Gomayactirna Go-Sakrtpinda Go-Sakrdrasa Jalaukah-Sakrt PZravata-Sakrt Prsat-Sakrdrasa Maksika-vistha Mamsasi Paksi-vid Varaha-Sakrdrasa Varah-vit Gaja-Sakrdrasa Vrsa-vit Vrsadamsa-Sakpt vadamstra-Sakrdrasa ?Harina-Sakrdrasa ras? Stanya Nari-Ksira Syn, Nari-stanya Gavya payas CARAKA*SAMHITA Reference Ci</title>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">203</biblScope>
+		</imprint>
+	</monogr>
+	<note>181 Buffalow?s urine Mesa-miitra Ci. 10.48 Sheep urine Vrsa-miitra Ci, 10.26 Bull?s urine Srgala-miitra Ci. 10.41 Jackal?s urine va-mitra Ci. 10.41 Dog?s urine Simhadi-mitra Ci</note>
+</biblStruct>
+
+<biblStruct xml:id="b116">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page" from="25" to="53" />
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b117">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>17.116</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b118">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>14.41</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b119">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>14.51</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b120">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>17.116</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b121">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b122">
+	<analytic>
+		<title/>
+		<author>
+			<persName><surname>Vi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="j">Su</title>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">26</biblScope>
+			<date type="published" when="0177">7.23, Ci, 15.177</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b123">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Tn</surname></persName>
+		</author>
+		<idno>12.3</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b124">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>14.41</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b125">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">115</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b126">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">C</forename></persName>
+		</author>
+		<idno>10.40 Ci 14.55</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b127">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ka</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b128">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>17.132</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b129">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">116</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b130">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>14.51</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b131">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>17.116</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b132">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">14</biblScope>
+			<biblScope unit="page">51</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b133">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">3</biblScope>
+			<biblScope unit="page">302</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b134">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ka</forename></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+			<biblScope unit="page">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b135">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+			<biblScope unit="page">107</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b136">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>11.83</idno>
+		<imprint>
+			<biblScope unit="volume">13</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b137">
+	<monogr>
+		<title level="m" type="main">Go-dugdha, go-ksira Mahisa-payas Syn. Mahisi-ksira Asva-Ksira Naga-Ksira Aja-ksira Ci</title>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+		<idno>11.83</idno>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b138">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>11.83</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b139">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>11.83</idno>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b140">
+	<monogr>
+		<title level="m" type="main">English equivalent Pigeon?s faeces Cock?s faeces Juice of ass?s faeces APPENDIX V Sanskrit Name Reference : English equivalent Tuttha Su. 3.12, 3.10 Copper sulphate Syn. Amptasatiga Pakvalostra-prasada Si 7.14 Water immersed with heated clod Padmini-Kardama i. 21.81 Mud of the lotus root Palasa-Ksara i</title>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<idno>11.83, 19.57, 13.108</idno>
+		<imprint>
+			<biblScope unit="page">252</biblScope>
+		</imprint>
+	</monogr>
+	<note>23.101, 25.53 Alkali of palaga Pamésuja . 27.304 Salt derived from dust Picuka 23</note>
+</biblStruct>
+
+<biblStruct xml:id="b141">
+	<monogr>
+		<title level="m" type="main">243 Zinc oxide collyrium Bhrsta mrt . 4.32 Fried earth Manahsila Su, 1.70, 3.5 Realyar Mani . 1.70 Gem Marakata Ci</title>
+		<idno>Puspakasisa 6.64 Purified ferrous sulphate Puspanjana . 26</idno>
+		<imprint/>
+	</monogr>
+	<note>23.252 Emerald Maksika dhatu Su. 21.33, Ci. 7.70 Pyrite Mrt Su. 4.28 &apos; Faith Yavastka Su. 27.505, Ci. 26.57</note>
+</biblStruct>
+
+<biblStruct xml:id="b142">
+	<monogr>
+		<title level="m" type="main">81 Silver by-product Ripya Su. 5.74 Silver Lavana Su. 1.70 Salt Lohamala Su. 1.70 Tron by-product Vajra Ci</title>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">16</biblScope>
+		</imprint>
+	</monogr>
+	<note>Yavagraja Ratna In, 12.33 Precious stones Riti Su. 5.74 Brass Rapyamala Ci. 7.72, 23.252 Diamond Vaidirya Gi. 1-4,22 Cat?s eye Valmika-mrttika Ci. 27.48 Ant-hill</note>
+</biblStruct>
+
+<biblStruct xml:id="b143">
+	<monogr>
+		<title level="m" type="main">304 Salt derived from sea-water Sarkara Ci. 13.42 Gravels Silajatu Su</title>
+		<author>
+			<persName><forename type="first">Samudraka</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">27</biblScope>
+			<biblScope unit="page">24</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b144">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sara</forename><surname>Gi</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">23</biblScope>
+			<biblScope unit="page">252</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b145">
+	<monogr>
+		<title level="m" type="main">23.252 ?Serpent gem Reference Ci, 1.1-41 English equivalent (1) Vidarigandhadi</title>
+		<author>
+			<persName><forename type="first">Sarpamani</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b146">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">22</biblScope>
+			<biblScope unit="page">151</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b147">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2006-03-02">11.24, Ci. 1.1.43, 2.3.6</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b148">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<date>5.26, 16.24, Sa. 8.29</date>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b149">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Si</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b150">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2014">2.27, Gi. 14</date>
+			<biblScope unit="volume">122</biblScope>
+			<biblScope unit="page">124</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b151">
+	<monogr>
+		<title level="m" type="main">Bark of five latex-bearing trees ( Pafica Kgiri Vyksa ) Five parts</title>
+		<author>
+			<persName><surname>Rajata</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Trapu</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Krsnaloha</forename><surname>Sisa</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+	<note>root, bark, leaves, flower, fruits ) of Sirisa</note>
+</biblStruct>
+
+<biblStruct xml:id="b152">
+	<monogr>
+		<title level="m" type="main">Mudgaparni, Magaparni Punarnava, mudgaparni masaparni, bala, eranda Sour fruits like pomeyranates</title>
+		<author>
+			<persName><surname>Kola</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Vrksamla</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Cukrika</forename><surname>Cangeri</surname></persName>
+		</author>
+		<author>
+			<persName><forename type="first">Mudgaparni</forename><surname>Masaparm</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Salaparni</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Prsniparni</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b153">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Kharjura</forename><surname>Badara</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Etc</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b154">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Bala</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Etc</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">47</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b155">
+	<monogr>
+		<title level="m" type="main">Katuka Drugs of Madhura skandha particularly the first fifteen Ons. Muste, usa, bali ete</title>
+		<author>
+			<persName><surname>Bilva</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Kasmarya</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Brhau</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Puskara</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Bharnyi</surname></persName>
+		</author>
+		<author>
+			<persName><surname>Sati</surname></persName>
+		</author>
+		<imprint>
+			<publisher>Ghee and oil</publisher>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b156">
+	<monogr>
+		<title/>
+		<author>
+			<persName><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">1</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b157">
+	<monogr>
+		<title level="m" type="main">766 Sanskrit Name Reference Saravasamputa Ci</title>
+		<imprint>
+			<biblScope unit="volume">18</biblScope>
+			<biblScope unit="page">66</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b158">
+	<monogr>
+		<title level="m" type="main">Mallaka-samputa Ci</title>
+		<author>
+			<persName><surname>Syn</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">17</biblScope>
+			<biblScope unit="page">129</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b159">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ka</forename><surname>Sarkaramodaka</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">28</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b160">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sadhana</forename><surname>Vi</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">7</biblScope>
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b161">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Sarodaka</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b162">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Surakalpa</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint/>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b163">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Surasava</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<date type="published" when="2008-02">Ka. 2.8</date>
+			<biblScope unit="volume">29</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b164">
+	<analytic>
+		<title/>
+		<author>
+			<persName><forename type="first">Sitra-Bandhana</forename><surname>Vi</surname></persName>
+		</author>
+	</analytic>
+	<monogr>
+		<title level="s">Sneha Vi</title>
+		<imprint>
+			<biblScope unit="volume">8</biblScope>
+			<biblScope unit="page">135</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b165">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Snehafarkara</forename><surname>Ci</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">25</biblScope>
+			<biblScope unit="page">76</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b166">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Svarasa</forename><surname>Su</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">4</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b167">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Svarasa-Bhavana</forename><surname>Ka</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">47</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+<biblStruct xml:id="b168">
+	<monogr>
+		<title/>
+		<author>
+			<persName><forename type="first">Ka</forename><surname>Svarasabhavita</surname></persName>
+		</author>
+		<imprint>
+			<biblScope unit="volume">12</biblScope>
+			<biblScope unit="page">17</biblScope>
+		</imprint>
+	</monogr>
+</biblStruct>
+
+				</listBibl>
+			</div>
+		</back>
+	</text>
+</TEI>
